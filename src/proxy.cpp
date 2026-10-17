@@ -8,6 +8,7 @@
 //
 // SPDX-License-Identifier: MIT
 // https://gitverse.ru/kapitoxapux/steamvr-arc-dx12-bridge
+// https://github.com/kapitoxapux/steamvr-arc-dx12-bridge (mirror)
 
 #define BRIDGE_NAME "steamvr-arc-dx12-bridge"
 #define BRIDGE_VERSION "0.1.0"

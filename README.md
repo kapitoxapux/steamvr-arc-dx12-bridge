@@ -3,7 +3,9 @@
 Makes DirectX 11 OpenVR games run in SteamVR on **Intel Arc** GPUs by handing their frames
 to SteamVR as DirectX 12 textures.
 
-[Русская версия](README.ru.md)
+[Русская версия](README.ru.md) ·
+[GitVerse](https://gitverse.ru/kapitoxapux/steamvr-arc-dx12-bridge) (main) ·
+[GitHub](https://github.com/kapitoxapux/steamvr-arc-dx12-bridge) (mirror)
 
 > **Experimental.** Verified on Intel Arc B580 (driver 32.0.101.9150), Windows 10 22H2,
 > SteamVR 2.17.10, with Drums Rock streamed to a PICO 4 via ALVR. Reports from other games

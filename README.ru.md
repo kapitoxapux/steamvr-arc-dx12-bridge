@@ -3,7 +3,9 @@
 Переходник, с которым VR-игры на DirectX 11 через OpenVR запускаются в SteamVR на видеокартах
 **Intel Arc**. Он передаёт кадры игры в SteamVR как текстуры DirectX 12.
 
-[English version](README.md)
+[English version](README.md) ·
+[GitVerse](https://gitverse.ru/kapitoxapux/steamvr-arc-dx12-bridge) (основной) ·
+[GitHub](https://github.com/kapitoxapux/steamvr-arc-dx12-bridge) (зеркало)
 
 > **Экспериментальный.** Проверен на Intel Arc B580 (драйвер 32.0.101.9150), Windows 10 22H2,
 > SteamVR 2.17.10 с игрой Drums Rock и шлемом PICO 4 через ALVR. Будем рады отчётам о других
