@@ -122,6 +122,8 @@ Windows: `ZIG=/путь/к/zig ./build.sh`. Нужен компилятор, с�
 Технические подробности для разработчиков драйверов и SteamVR — в английском
 [README](README.md#technical-notes).
 
+Отчёт об ошибке в Intel: [IGCIT #1590](https://github.com/IGCIT/Intel-GPU-Community-Issue-Tracker-IGCIT/issues/1590).
+
 ## Лицензия
 
 MIT, см. [LICENSE](LICENSE).
