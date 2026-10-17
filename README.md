@@ -145,7 +145,8 @@ These are for driver and runtime developers.
   This is the D3D11 sync texture between the driver and the compositor, the same kind of
   cross-process D3D11 sharing.
 
-Upstream report: [Intel IGCIT #1590](https://github.com/IGCIT/Intel-GPU-Community-Issue-Tracker-IGCIT/issues/1590).
+Upstream reports: [Intel IGCIT #1590](https://github.com/IGCIT/Intel-GPU-Community-Issue-Tracker-IGCIT/issues/1590),
+[SteamVR Bug Reports forum](https://steamcommunity.com/app/250820/discussions/3/569300439979348361/).
 
 ## License
 
